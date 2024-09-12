@@ -8,6 +8,7 @@ public class SpringstartApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringstartApplication.class, args);
+		//this is a comment
 	}
 
 }
