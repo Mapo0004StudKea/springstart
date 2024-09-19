@@ -1,0 +1,21 @@
+#1. Translate manually to YML
+name: "John Doe"
+age: 30
+isStudent: true
+subject:
+  - Math
+  - Computer Science
+  - Physics
+address:
+  street: "133 Main st"
+  city: "Anytown"
+
+  subjects:
+    - Math
+    - CS
+
+  address:
+    street: 123 Main St
+    city: Anytown
+
+#3. Discuss when YML and JSON should be used. Pros and cons.
